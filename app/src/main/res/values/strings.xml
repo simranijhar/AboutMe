@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Simran Nijhar</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi There.
+        \n\nMy name is Simran and i love reading comics, novels and story books.
+        \n\nI like reading them during my free time at home.
+        \n\nWhen im all alone by myself at home, i like to curl up on my bed in my room and occupy myself with a good book.
+        \n\nFun fact, i fall asleep fast when i read books before bed and i always end up having a good night rest.
+        \n\nI personally feel like people who have bad eye sight should do this more to improve their eyesight.
+        \n\nThat is the end of my biography. I hope you enjoy reading it.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
